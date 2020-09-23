@@ -31,7 +31,7 @@ $(function () {
       "left": "2000px",
       "transition": "3.5s",
       "transition-timing-function": "ease-in",
-      "transition-delay": "0.168s"
+      "transition-delay": "0.165s"
 
     });
     $(".anim_poster #top_poster1").css({
