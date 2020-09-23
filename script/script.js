@@ -31,7 +31,7 @@ $(function () {
       "left": "2000px",
       "transition": "3.5s",
       "transition-timing-function": "ease-in",
-      "transition-delay": "0.178s"
+      "transition-delay": "0.168s"
 
     });
     $(".anim_poster #top_poster1").css({
@@ -45,7 +45,7 @@ $(function () {
       "left": "2000px",
       "transition": "3.5s",
       "transition-timing-function": "ease-in",
-      "transition-delay": "0.248s"
+      "transition-delay": "0.238s"
 
     });
     $(".anim_poster #top_poster_mirrored").css({
@@ -59,7 +59,7 @@ $(function () {
       "left": "-2000px",
       "transition": "3s",
       "transition-timing-function": "ease-in",
-      "transition-delay": "3.928s"
+      "transition-delay": "3.918s"
 
     });
     $(".anim_poster #top_poster1_mirrored").css({
@@ -73,7 +73,7 @@ $(function () {
       "left": "-2000px",
       "transition": "3s",
       "transition-timing-function": "ease-in",
-      "transition-delay": "3.978s"
+      "transition-delay": "3.968s"
 
     });
 
